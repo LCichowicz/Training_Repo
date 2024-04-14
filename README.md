@@ -5,4 +5,5 @@ This tutorial focuses mainly on Git and using GitHub as a remote.
 
 This repository is built step by step in the tutorial.
 bla bla bla
+dupa dupa dupa
 I now includes steps for Github
